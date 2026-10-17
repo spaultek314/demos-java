@@ -22,5 +22,13 @@
     "dscr": "Introduces an API to model nominal descriptions of class file and runtime artifacts, especially constants loadable from the constant pool.",
     "link": false,
     "code": true
+  },
+  {
+    "jep": 341,
+    "jdk": 12,
+    "name": "JEP 341 - Default CDS Archives",
+    "dscr": "Explains how the JDK build generates a default CDS archive on supported 64-bit platforms, enabling CDS by default without requiring manual default archive generation.",
+    "link": false,
+    "code": false
   }
 ]
